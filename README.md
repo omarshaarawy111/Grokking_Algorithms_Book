@@ -37,5 +37,31 @@ This repository aims to provide easy-to-follow implementations of the algorithms
 
 The repository is organized into chapters, with each chapter having its own folder containing the associated code and explanations.
 
-### Folder Structure
-Grokking_Algorithms_Book/ ├── Chapter01 - Introduction to Algorithms │ ├── binary_search.py │ ├── README.md ├── Chapter02 - Selection Sort │ ├── selection_sort.py │ ├── README.md ├── Chapter03 - Recursion │ ├── sum_recursive.py │ ├── README.md ├── Chapter04 - Quicksort │ ├── quicksort.py │ ├── README.md ├── Chapter05 - Hash Tables │ ├── hash_table.py │ ├── README.md ├── Chapter06 - Breadth-First Search │ ├── bfs.py │ ├── README.md ├── Chapter07 - Dijkstra's Algorithm │ ├── dijkstra.py │ ├── README.md ├── Chapter08 - Greedy Algorithms │ ├── greedy.py │ ├── README.md ├── Chapter09 - Dynamic Programming │ ├── knapsack.py │ ├── README.md ├── Chapter10 - K-Nearest Neighbors │ ├── knn.py │ ├── README.md └── LICENSE
+
+---
+
+## 📖 Chapters Overview
+
+1. **Chapter 1: Binary Search**  
+   - Concepts: Binary search algorithm  
+   - Code: `Chp_1_Binary_Search.ipynb`
+
+2. **Chapter 2: Selection Sort**  
+   - Concepts: Selection sort algorithm  
+   - Code: `Chp_2_Selection_Sort.ipynb`
+
+3. **Chapter 3: Recursion and Stack**  
+   - Concepts: Recursion principles, stack data structure  
+   - Code: `Chp_3_Recursion_and_Stack.ipynb`
+
+4. **Chapter 4: Divide & Conquer and Quick Sort**  
+   - Concepts: Divide and conquer strategy, quicksort algorithm  
+   - Code: `Chp_4_D&C_and_Quick_Sort.ipynb`
+
+5. **Chapter 5: Hash Tables**  
+   - Concepts: Hash tables and their applications  
+   - Code: `Chp_5_Hash_Tables.ipynb`
+
+---
+
+
