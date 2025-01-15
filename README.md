@@ -17,25 +17,29 @@ The repository is organized into chapters, with each chapter having its own fold
 
 ## 📖 Chapters Overview
 
-1. **Chapter 1: Binary Search**  
+**Chapter 1: Binary Search**  
    - Concepts: Binary search algorithm  
    - Code: `Chp_1_Binary_Search.ipynb`
 
-2. **Chapter 2: Selection Sort**  
+**Chapter 2: Selection Sort**  
    - Concepts: Selection sort algorithm  
    - Code: `Chp_2_Selection_Sort.ipynb`
 
-3. **Chapter 3: Recursion and Stack**  
+**Chapter 3: Recursion and Stack**  
    - Concepts: Recursion principles, stack data structure  
    - Code: `Chp_3_Recursion_and_Stack.ipynb`
 
-4. **Chapter 4: Divide & Conquer and Quick Sort**  
+**Chapter 4: Divide & Conquer and Quick Sort**  
    - Concepts: Divide and conquer strategy, quicksort algorithm  
    - Code: `Chp_4_D&C_and_Quick_Sort.ipynb`
 
-5. **Chapter 5: Hash Tables**  
+**Chapter 5: Hash Tables**  
    - Concepts: Hash tables and their applications  
    - Code: `Chp_5_Hash_Tables.ipynb`
+
+**Chapter 6: Breadth First Search**  
+   - Concepts: Bread first search and graph applications  
+   - Code: `Chp_6_BFS_and_Queue.ipynb`
 
 ---
 
