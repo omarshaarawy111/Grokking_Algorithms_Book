@@ -41,6 +41,10 @@ The repository is organized into chapters, with each chapter having its own fold
    - Concepts: Bread first search and graph applications  
    - Code: `Chp_6_BFS_and_Queue.ipynb`
 
+**Chapter 7: Breadth First Search**  
+   - Concepts: Dijkstra's algorthim and graph applications  
+   - Code: `Chp_7_Dijkstra’s _Algorithm.ipynb`
+
 ---
 
 
