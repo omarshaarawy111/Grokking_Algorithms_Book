@@ -43,7 +43,7 @@ The repository is organized into chapters, with each chapter having its own fold
 
 **Chapter 7: Dijkstra's Algorthim**  
    - Concepts: Dijkstra's algorthim and graph applications  
-   - Code: `Chp_7_Dijkstra’s _Algorithm.ipynb`
+   - Code: `Chp_7_Dijkstra’s_Algorithm.ipynb`
 
 ---
 
